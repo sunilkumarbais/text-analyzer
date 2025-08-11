@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Text-Analyzer/static/css/main.4994ae91.css",
+    "main.js": "/Text-Analyzer/static/js/main.e8026311.js",
+    "static/media/Error-404.png": "/Text-Analyzer/static/media/Error-404.f5e70fa1f90321090540.png",
+    "index.html": "/Text-Analyzer/index.html",
+    "main.4994ae91.css.map": "/Text-Analyzer/static/css/main.4994ae91.css.map",
+    "main.e8026311.js.map": "/Text-Analyzer/static/js/main.e8026311.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4994ae91.css",
+    "static/js/main.e8026311.js"
+  ]
+}
